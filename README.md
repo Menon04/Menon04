@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:00D2FF&height=220&section=header&text=Menon04&fontSize=50&fontAlignY=30&desc=Desenvolvedor%20de%20Software%20Jr%20%7C%20Node.js%20%7C%20Cloud&descAlignY=55&fontColor=ffffff&fontFamily=Courier%20New&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:7C3AED&height=220&section=header&text=Menon04&fontSize=50&fontAlignY=30&desc=Desenvolvedor%20de%20Software%20Jr%20%7C%20Node.js%20%7C%20Cloud&descAlignY=55&fontColor=ffffff&fontFamily=Courier%20New&animation=fadeIn" width="100%" />
 </h1>
 
 <p align="center"><strong>Desenvolvedor de Software Jr &middot; Node.js &middot; Cloud &middot; Microsservicos</strong></p>
